@@ -79,6 +79,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="northwind.sql" />
     <Content Include="NorthwindDb.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>NorthwindDb1.generated.cs</LastGenOutput>
