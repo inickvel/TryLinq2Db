@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Vna.Linq2Db.Tests
+﻿namespace Vna.Linq2Db.Tests
 {
     public class Class1
     {
